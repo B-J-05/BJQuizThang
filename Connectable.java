@@ -15,4 +15,9 @@ public interface Connectable {
 	public String receive();
 	public int getPort();
 }
+
+public class Alfredo
+{
+	public static void main(string[] args)
+}
 // YAYEET SKADEET DELEET
