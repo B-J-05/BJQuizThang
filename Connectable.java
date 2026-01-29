@@ -19,5 +19,8 @@ public interface Connectable {
 public class Alfredo
 {
 	public static void main(string[] args)
+	{
+		System.out.prinln("Hi i'm Alfredo");
+	}
 }
 // YAYEET SKADEET DELEET
