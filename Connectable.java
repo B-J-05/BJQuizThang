@@ -21,6 +21,7 @@ public class Alfredo
 	public static void main(string[] args)
 	{
 		System.out.prinln("Hi i'm Alfredo");
+		System.out.prinln("Hi i'm Alfredo2");
 	}
 }
 // YAYEET SKADEET DELEET
